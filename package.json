@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "prettier": "2.7.1"
+  },
+  "name": "nodejs-hw7",
+  "description": "\"# kodluyoruz-nodejs-homework7\"",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PoIyMorpheus/kodluyoruz-nodejs-homework7.git"
+  },
+  "author": "Recep Batuhan Dikmen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PoIyMorpheus/kodluyoruz-nodejs-homework7/issues"
+  },
+  "homepage": "https://github.com/PoIyMorpheus/kodluyoruz-nodejs-homework7#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
